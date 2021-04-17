@@ -9,7 +9,7 @@ const Alert = props => {
 	} else {
 		return (
 			<div className="alert alert-danger" role="alert">
-				{text}
+				{props.text}
 			</div>
 		);
 	}
