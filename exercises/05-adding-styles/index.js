@@ -17,6 +17,7 @@ const Badge = props => {
 		</button>
 	);
 };
+
 Badge.propTypes = {
 	label: PropTypes.string,
 	number: PropTypes.string

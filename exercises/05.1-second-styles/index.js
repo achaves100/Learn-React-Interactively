@@ -3,12 +3,12 @@ import ReactDOM from "react-dom";
 import PropTypes from "prop-types";
 
 const buttonStyles = {
-	//write button styles here
+	
 
 };
 
 const badgeStyles = {
-	//write the span styles here
+	
 
 };
 
