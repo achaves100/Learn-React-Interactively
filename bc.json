@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://amethyst-coyote-ieyy1kvz.ws-us03.gitpod.io",
+    "address": "https://violet-xerinae-ctdarl85.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -245,7 +245,7 @@
         {
             "slug": "05.1-second-styles",
             "title": "05.1-second-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-second-styles",
             "translations": [
                 "es",

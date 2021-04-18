@@ -3,12 +3,14 @@ import ReactDOM from "react-dom";
 import PropTypes from "prop-types";
 
 const buttonStyles = {
-	
-
+	background: "yellow",
+	color: "black",
+	border: "none"
 };
 
 const badgeStyles = {
-	
+	background: "red",
+	color: "white"
 
 };
 
